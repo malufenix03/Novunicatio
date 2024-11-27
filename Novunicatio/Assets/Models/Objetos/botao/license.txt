@@ -1,0 +1,11 @@
+Model Information:
+* title:	Button - LowPoly
+* source:	https://sketchfab.com/3d-models/button-lowpoly-d60736bd0f2941168219e8c17fa37f42
+* author:	Antoniolm (https://sketchfab.com/antoniolm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Button - LowPoly" (https://sketchfab.com/3d-models/button-lowpoly-d60736bd0f2941168219e8c17fa37f42) by Antoniolm (https://sketchfab.com/antoniolm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

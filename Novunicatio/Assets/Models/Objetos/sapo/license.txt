@@ -1,0 +1,8 @@
+Model Information:
+* title:	Frog Plushie
+* source:	https://sketchfab.com/3d-models/frog-plushie-d2357364fb0c4c26a76527ce1286dd4e
+* author:	Anfossi Valentin (https://sketchfab.com/lebiff)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
