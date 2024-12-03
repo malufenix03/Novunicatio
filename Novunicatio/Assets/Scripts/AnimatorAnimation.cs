@@ -7,11 +7,19 @@ using Unity.VisualScripting;
 public class AnimatorAnimation : MonoBehaviour
 {
     public UnityEngine.Object[] proximo;
+    private Animator[] proximoAnimator;
     private int id=0;
     // Start is called before the first frame update
     void Start()
     {
-        
+        proximoAnimator = new Animator[proximo.Length];
+        if(proximo.Length>0){
+            for(int i=0;i<proximo.Length; i++){
+                proximoAnimator[i] = proximo[i].GetComponent<Animator>();
+            }
+                
+            
+        }
     }
 
     // Update is called once per frame
@@ -64,8 +72,10 @@ public class AnimatorAnimation : MonoBehaviour
     }
 
     void TriggerNext(){
-        proximo[id++].GetComponent<Animator>().SetTrigger("nextTrigger");
+
+        proximoAnimator[id++].SetTrigger("nextTrigger");
         id%=proximo.Length;
+
     }
 
     void Die(){

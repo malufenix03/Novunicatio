@@ -111,7 +111,7 @@ MonoBehaviour:
   pathfindUpdateFrequency: 0
   verticalReductionFactor: 0.7
   rotationsAffectedByVerticalReduction: 1
-  jumpSpeed: 4
+  jumpSpeed: 3.5
   singleTapStraight: 0
   singleTapStraightPathfind: 0
   clickHoldSeparationStraight: 0.3
