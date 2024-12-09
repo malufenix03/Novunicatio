@@ -2102,7 +2102,7 @@ MonoBehaviour:
   amount: 9
   minValue: 0
   maxValue: 1
-  label: SFX volume
+  label: Volume efeitos sonoros
   textEffects: 0
   outlineSize: 2
   anchor: 3
@@ -2571,7 +2571,7 @@ MonoBehaviour:
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
-  _label: Resume
+  _label: Retomar
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
@@ -2640,7 +2640,7 @@ MonoBehaviour:
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  _label: Options
+  _label: "Op\xE7\xF5es"
   anchor: 4
   textEffects: 0
   outlineSize: 2
@@ -3320,7 +3320,7 @@ MonoBehaviour:
   amount: 3
   minValue: 0
   maxValue: 1
-  label: Music volume
+  label: Volume musica
   textEffects: 0
   outlineSize: 2
   anchor: 3
@@ -3696,7 +3696,7 @@ MonoBehaviour:
   fontScaleFactor: 2
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
+  isVisible: 0
   isClickable: 1
   orientation: 0
   gridWidth: 3
@@ -3719,7 +3719,7 @@ MonoBehaviour:
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
-  _label: Save
+  _label: Salvar
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
@@ -3953,7 +3953,7 @@ MonoBehaviour:
   uiButton: {fileID: 0}
   uiDropdown: {fileID: 0}
   actionListOnClick: {fileID: 0}
-  label: Language
+  label: "L\xEDngua para aprender"
   labelSuffix: ' : '
   textEffects: 0
   outlineSize: 2
@@ -3962,7 +3962,7 @@ MonoBehaviour:
   optionsArray: []
   cycleType: 0
   splitLanguageType: 0
-  varID: 0
+  varID: -1
   uiSelectableHideStyle: 0
   cycleUIBasis: 0
   optionTextures: []
@@ -4316,7 +4316,7 @@ MonoBehaviour:
   fontScaleFactor: 2
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
+  isVisible: 0
   isClickable: 1
   orientation: 0
   gridWidth: 3
@@ -4339,7 +4339,7 @@ MonoBehaviour:
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
-  _label: Load
+  _label: Carregar
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
@@ -4680,7 +4680,7 @@ MonoBehaviour:
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
-  _label: Options
+  _label: "Op\xE7\xF5es"
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
@@ -4972,7 +4972,7 @@ MonoBehaviour:
   amount: 1
   minValue: 0
   maxValue: 1
-  label: Speech volume
+  label: Volume discurso
   textEffects: 0
   outlineSize: 2
   anchor: 3
@@ -5162,8 +5162,6 @@ MonoBehaviour:
   visibleElements:
   - {fileID: -2860970328145720147}
   - {fileID: 2101681734982115360}
-  - {fileID: -8117887511693533}
-  - {fileID: 1306263407703488845}
   - {fileID: 4963832150464328116}
   transitionProgress: 0
   appearType: 3
@@ -5222,7 +5220,7 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 69.299995, y: 100.5}
+  biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
     x: 174.3
@@ -5408,7 +5406,7 @@ MonoBehaviour:
   numSlots: 1
   uiButton: {fileID: 0}
   uiPointerState: 0
-  _label: Quit
+  _label: Sair
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4

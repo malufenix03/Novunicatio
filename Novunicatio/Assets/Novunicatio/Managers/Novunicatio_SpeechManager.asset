@@ -57,7 +57,19 @@ MonoBehaviour:
   languageAudioAssetBundles: []
   languageLipsyncAssetBundles: []
   Languages:
-  - name: Original
+  - name: Espanhol
+    isRightToLeft: 0
+    audioAssetBundle: 
+    lipsyncAssetBundle: 
+    fallbackLanguageIndex: 0
+    isDisabled: 0
+  - name: "Franc\xEAs"
+    isRightToLeft: 0
+    audioAssetBundle: 
+    lipsyncAssetBundle: 
+    fallbackLanguageIndex: 0
+    isDisabled: 0
+  - name: "Ingl\xEAs"
     isRightToLeft: 0
     audioAssetBundle: 
     lipsyncAssetBundle: 

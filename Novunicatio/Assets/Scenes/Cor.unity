@@ -396,17 +396,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1013656667}
-  - {fileID: 1384006251}
-  - {fileID: 1567470903}
-  - {fileID: 460767484}
-  - {fileID: 1778421617}
-  - {fileID: 1222174866}
-  - {fileID: 1291938697}
-  - {fileID: 682309007}
-  - {fileID: 1842996335}
-  - {fileID: 1554722544}
-  - {fileID: 950774920}
+  - {fileID: 1516013817}
+  - {fileID: 1962057626}
+  - {fileID: 1510652299}
+  - {fileID: 1887581221}
+  - {fileID: 1464805863}
+  - {fileID: 1934341034}
   - {fileID: 913210145}
   - {fileID: 743682583}
   - {fileID: 610795933}
@@ -414,37 +409,38 @@ Transform:
   - {fileID: 1413075928}
   - {fileID: 886545540}
   - {fileID: 991863940}
-  - {fileID: 1516013817}
-  - {fileID: 1962057626}
-  - {fileID: 1510652299}
-  - {fileID: 1887581221}
-  - {fileID: 1464805863}
-  - {fileID: 1934341034}
-  - {fileID: 1550768544}
-  - {fileID: 629169479}
-  - {fileID: 562078739}
-  - {fileID: 139783121}
-  - {fileID: 1051260911}
-  - {fileID: 1074299278}
   - {fileID: 505871212}
   - {fileID: 709071147}
   - {fileID: 534523971}
   - {fileID: 351883564}
   - {fileID: 811632184}
   - {fileID: 1127141532}
+  - {fileID: 950774920}
+  - {fileID: 1550768544}
+  - {fileID: 629169479}
+  - {fileID: 562078739}
+  - {fileID: 139783121}
+  - {fileID: 1051260911}
+  - {fileID: 1074299278}
+  - {fileID: 1554722544}
   - {fileID: 931628332}
   - {fileID: 1952058621}
   - {fileID: 1923101611}
   - {fileID: 187690591}
   - {fileID: 1183887814}
-  - {fileID: 324187600}
-  - {fileID: 1181213228}
-  - {fileID: 123290989}
-  - {fileID: 895224162}
-  - {fileID: 366483208}
-  - {fileID: 104397045}
-  - {fileID: 2132387292}
-  - {fileID: 1008959734}
+  - {fileID: 1567470903}
+  - {fileID: 460767484}
+  - {fileID: 1778421617}
+  - {fileID: 1222174866}
+  - {fileID: 1291938697}
+  - {fileID: 682309007}
+  - {fileID: 1842996335}
+  - {fileID: 1625535101}
+  - {fileID: 1605889591}
+  - {fileID: 803681704}
+  - {fileID: 1450980071}
+  - {fileID: 1720396817}
+  - {fileID: 1469380228}
   - {fileID: 630643881}
   - {fileID: 680143447}
   - {fileID: 1902527458}
@@ -452,38 +448,38 @@ Transform:
   - {fileID: 558209694}
   - {fileID: 1105402570}
   - {fileID: 1463768965}
-  - {fileID: 1625535101}
-  - {fileID: 1605889591}
-  - {fileID: 803681704}
-  - {fileID: 1450980071}
-  - {fileID: 1720396817}
-  - {fileID: 1469380228}
-  - {fileID: 844724082}
-  - {fileID: 1986581987}
-  - {fileID: 1704629904}
-  - {fileID: 1171525511}
-  - {fileID: 805134600}
-  - {fileID: 580271841}
   - {fileID: 1314653}
   - {fileID: 1107630295}
   - {fileID: 1586134409}
   - {fileID: 1307441600}
   - {fileID: 2100817047}
   - {fileID: 2071784947}
+  - {fileID: 1008959734}
+  - {fileID: 844724082}
+  - {fileID: 1986581987}
+  - {fileID: 1704629904}
+  - {fileID: 1171525511}
+  - {fileID: 805134600}
+  - {fileID: 580271841}
+  - {fileID: 2132387292}
   - {fileID: 1216049636}
   - {fileID: 2083100784}
   - {fileID: 450069449}
   - {fileID: 2046384576}
   - {fileID: 572704906}
-  - {fileID: 486493306}
-  - {fileID: 984296517}
-  - {fileID: 644853224}
-  - {fileID: 117910684}
-  - {fileID: 1830382958}
-  - {fileID: 376526116}
-  - {fileID: 2123102277}
-  - {fileID: 1417134206}
-  - {fileID: 211743162}
+  - {fileID: 1384006251}
+  - {fileID: 324187600}
+  - {fileID: 1181213228}
+  - {fileID: 123290989}
+  - {fileID: 895224162}
+  - {fileID: 366483208}
+  - {fileID: 104397045}
+  - {fileID: 1335149209}
+  - {fileID: 1213646729}
+  - {fileID: 858470215}
+  - {fileID: 1754833248}
+  - {fileID: 2102346052}
+  - {fileID: 2126555356}
   - {fileID: 2081587207}
   - {fileID: 691039428}
   - {fileID: 633315783}
@@ -491,37 +487,38 @@ Transform:
   - {fileID: 1992586878}
   - {fileID: 147888745}
   - {fileID: 1646985325}
-  - {fileID: 1335149209}
-  - {fileID: 1213646729}
-  - {fileID: 858470215}
-  - {fileID: 1754833248}
-  - {fileID: 2102346052}
-  - {fileID: 2126555356}
-  - {fileID: 1714924522}
-  - {fileID: 1714322825}
-  - {fileID: 1860020795}
-  - {fileID: 1181466773}
-  - {fileID: 398654312}
-  - {fileID: 603288025}
   - {fileID: 2084213904}
   - {fileID: 1106383179}
   - {fileID: 2070539597}
   - {fileID: 1455503931}
   - {fileID: 309714948}
   - {fileID: 1047566906}
+  - {fileID: 211743162}
+  - {fileID: 1714924522}
+  - {fileID: 1714322825}
+  - {fileID: 1860020795}
+  - {fileID: 1181466773}
+  - {fileID: 398654312}
+  - {fileID: 603288025}
+  - {fileID: 1417134206}
   - {fileID: 449247335}
   - {fileID: 1995854048}
   - {fileID: 1854424113}
   - {fileID: 1250804709}
   - {fileID: 139235870}
-  - {fileID: 1540909010}
-  - {fileID: 1197244331}
-  - {fileID: 887020468}
-  - {fileID: 756009231}
-  - {fileID: 1591232537}
-  - {fileID: 221240274}
-  - {fileID: 267573076}
-  - {fileID: 1855170292}
+  - {fileID: 486493306}
+  - {fileID: 984296517}
+  - {fileID: 644853224}
+  - {fileID: 117910684}
+  - {fileID: 1830382958}
+  - {fileID: 376526116}
+  - {fileID: 2123102277}
+  - {fileID: 1054999492}
+  - {fileID: 1136113864}
+  - {fileID: 1492645969}
+  - {fileID: 851653269}
+  - {fileID: 1136120810}
+  - {fileID: 1704974490}
   - {fileID: 1074947803}
   - {fileID: 1472897711}
   - {fileID: 1097079967}
@@ -529,29 +526,32 @@ Transform:
   - {fileID: 214131085}
   - {fileID: 1917619843}
   - {fileID: 362725658}
-  - {fileID: 1054999492}
-  - {fileID: 1136113864}
-  - {fileID: 1492645969}
-  - {fileID: 851653269}
-  - {fileID: 1136120810}
-  - {fileID: 1704974490}
-  - {fileID: 491708943}
-  - {fileID: 1202111608}
-  - {fileID: 541116891}
-  - {fileID: 992501807}
-  - {fileID: 1779827842}
-  - {fileID: 1141137582}
   - {fileID: 1990045149}
   - {fileID: 924638828}
   - {fileID: 1405067373}
   - {fileID: 2146023499}
   - {fileID: 1009761762}
   - {fileID: 697936836}
+  - {fileID: 1855170292}
+  - {fileID: 491708943}
+  - {fileID: 1202111608}
+  - {fileID: 541116891}
+  - {fileID: 992501807}
+  - {fileID: 1779827842}
+  - {fileID: 1141137582}
+  - {fileID: 267573076}
   - {fileID: 848547111}
   - {fileID: 561794858}
   - {fileID: 6465586}
   - {fileID: 1167835463}
   - {fileID: 1722722907}
+  - {fileID: 1013656667}
+  - {fileID: 1540909010}
+  - {fileID: 1197244331}
+  - {fileID: 887020468}
+  - {fileID: 756009231}
+  - {fileID: 1591232537}
+  - {fileID: 221240274}
   m_Father: {fileID: 1291692125}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &86942565
@@ -7333,27 +7333,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.69999987
+      value: 0.71000004
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.6999999
+      value: 0.71000004
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.9512967
+      value: 1.9791727
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.6859976
+      value: 0.69
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.14043097
+      value: -0.145
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.18953994
+      value: 0.1995
       objectReference: {fileID: 0}
     - target: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7403,7 +7403,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7522964830279113543, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
       insertIndex: 0
       addedObject: {fileID: 940818702}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5271056581193276875, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1989753270}
   m_SourcePrefab: {fileID: 100100000, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
 --- !u!4 &881384306 stripped
 Transform:
@@ -8259,6 +8262,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &966171957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966171954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64541b9628a4ad4caa578070b8734ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  proximo: []
 --- !u!1 &984296516
 GameObject:
   m_ObjectHideFlags: 0
@@ -11459,32 +11475,61 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   listaMateriais:
   - {fileID: 2100000, guid: 39110ea2edbf8f14e89c744fc245097b, type: 2}
+  - {fileID: 2100000, guid: 450dc70f7b9300a478d1b19b5364f433, type: 2}
   - {fileID: 2100000, guid: da4ca1d3433bb5d44a8b31f27b64f93e, type: 2}
+  - {fileID: 2100000, guid: 50cfdc58272702a418e2516d6d8d409b, type: 2}
+  - {fileID: 2100000, guid: 4ce5988ff8cd4f348a97ee6b3370dc09, type: 2}
   - {fileID: 2100000, guid: 6c8389363a6759642b5f01eb161c0f9c, type: 2}
   - {fileID: 2100000, guid: 39e660b068610d44898c3d6af530b11e, type: 2}
   - {fileID: 2100000, guid: d97d7fc51f3d32e4ea7121d89fa5d520, type: 2}
   - {fileID: 2100000, guid: c32bea03f576c7f42bd6bd9d6f392ff7, type: 2}
-  - {fileID: 2100000, guid: 4ce5988ff8cd4f348a97ee6b3370dc09, type: 2}
   - {fileID: 2100000, guid: 0e25681efb7817843be9e8c9b7f8c68b, type: 2}
   - {fileID: 2100000, guid: e8a4caf881307314c88157d8f438d3b5, type: 2}
   - {fileID: 2100000, guid: 2c98575b525032e479119f718093b89b, type: 2}
   - {fileID: 2100000, guid: caf88bc4a8831c849aaeb6a375953f0d, type: 2}
-  - {fileID: 2100000, guid: 50cfdc58272702a418e2516d6d8d409b, type: 2}
-  - {fileID: 2100000, guid: 450dc70f7b9300a478d1b19b5364f433, type: 2}
   listaTraducao:
-  - amarillo
-  - azul
-  - burdeo
-  - blanco
-  - cian
-  - gris
-  - naranja
-  - "marr\xF3n"
-  - rosa
-  - negro
-  - morado
-  - verde
-  - rojo
+  - cores:
+    - amarillo
+    - rojo
+    - azul
+    - verde
+    - naranja
+    - burdeo
+    - blanco
+    - cian
+    - gris
+    - "marr\xF3n"
+    - rosa
+    - negro
+    - morado
+  - cores:
+    - jaune
+    - rouge
+    - bleu
+    - vert
+    - orange
+    - bordeaux
+    - blanc
+    - cian
+    - gris
+    - brun
+    - rose
+    - noir
+    - violet
+  - cores:
+    - yellow
+    - red
+    - blue
+    - green
+    - orange
+    - white
+    - cyan
+    - white
+    - gray
+    - brown
+    - pink
+    - black
+    - purple
   paiCores: {fileID: 34088346}
   telaCor: {fileID: 1762639014}
   telaTimer:
@@ -17689,6 +17734,22 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5271056581193276875, guid: 48ca4154f1b391d4b99ea6e1beee87d9, type: 3}
   m_PrefabInstance: {fileID: 881384305}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1989753270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989753269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec24addacf0f943ec9d49ef8b23addaa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundType: 0
+  playWhilePaused: 0
+  relativeVolume: 1
+  surviveSceneChange: 0
 --- !u!1 &1990045148
 GameObject:
   m_ObjectHideFlags: 0
@@ -18176,6 +18237,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7706223172613548258, guid: 20183ce945e6baf4a8164262274c32a3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 966171956}
+    - targetCorrespondingSourceObject: {fileID: 7706223172613548258, guid: 20183ce945e6baf4a8164262274c32a3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 966171957}
   m_SourcePrefab: {fileID: 100100000, guid: 20183ce945e6baf4a8164262274c32a3, type: 3}
 --- !u!1 &2046384575
 GameObject:
@@ -19869,7 +19933,7 @@ MonoBehaviour:
   previousSceneName: Laboratorio
   fadeInOnStart: 0
   fadeSpeed: 0.5
-  cameraOnStart: {fileID: 0}
+  cameraOnStart: {fileID: 631012579}
   playerIDs: 
   limitByPlayer: 0
   limitByActive: 0
@@ -19985,7 +20049,7 @@ MonoBehaviour:
   syncParamValues: 1
   backupData:
   - className: AC.ActionAnim
-    jsonData: '{"id":0,"isDisplayed":true,"showComment":false,"comment":"","willWait":true,"endAction":0,"skipAction":-1,"skipActionActual":{"instanceID":0},"linkedCutscene":{"instanceID":0},"linkedAsset":{"instanceID":0},"endings":[{"resultAction":0,"skipAction":-1,"skipActionActual":{"instanceID":0},"linkedCutscene":{"instanceID":0},"linkedAsset":{"instanceID":0}}],"isEnabled":true,"isAssetFile":false,"isBreakPoint":false,"nodeRect":{"serializedVersion":"2","x":14.0,"y":14.0,"width":300.0,"height":192.0},"overrideColor":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"showOutputSockets":true,"parentActionListInEditor":{"instanceID":2276526157225216080_0},"parameterID":-1,"constantID":0,"_anim":{"instanceID":0},"runtimeAnim":{"instanceID":0},"clip":{"instanceID":0},"fadeTime":0.0,"clipParameterID":-1,"_anim2D":{"instanceID":0},"runtimeAnim2D":{"instanceID":0},"animator":{"instanceID":966171956_0},"runtimeAnimator":{"instanceID":0},"clip2D":"","clip2DParameterID":-1,"wrapMode2D":0,"layerInt":0,"shapeObject":{"instanceID":0},"runtimeShapeObject":{"instanceID":0},"shapeKey":0,"shapeValue":0.0,"isPlayer":false,"methodMecanim":0,"mecanimParameterType":0,"parameterName":"","parameterNameID":-1,"parameterValue":0.0,"parameterValueParameterID":-1,"method":0,"blendMode":0,"playMode":0,"animationEngine":3,"customClassName":"","animEngine":{"instanceID":50122}}'
+    jsonData: '{"id":0,"isDisplayed":true,"showComment":false,"comment":"","willWait":true,"endAction":0,"skipAction":-1,"skipActionActual":{"instanceID":0},"linkedCutscene":{"instanceID":0},"linkedAsset":{"instanceID":0},"endings":[{"resultAction":0,"skipAction":-1,"skipActionActual":{"instanceID":0},"linkedCutscene":{"instanceID":0},"linkedAsset":{"instanceID":0}}],"isEnabled":true,"isAssetFile":false,"isBreakPoint":false,"nodeRect":{"serializedVersion":"2","x":14.0,"y":14.0,"width":300.0,"height":192.0},"overrideColor":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"showOutputSockets":true,"parentActionListInEditor":{"instanceID":2276526157225216080_0},"parameterID":-1,"constantID":0,"_anim":{"instanceID":0},"runtimeAnim":{"instanceID":0},"clip":{"instanceID":0},"fadeTime":0.0,"clipParameterID":-1,"_anim2D":{"instanceID":0},"runtimeAnim2D":{"instanceID":0},"animator":{"instanceID":966171956_0},"runtimeAnimator":{"instanceID":0},"clip2D":"","clip2DParameterID":-1,"wrapMode2D":0,"layerInt":0,"shapeObject":{"instanceID":0},"runtimeShapeObject":{"instanceID":0},"shapeKey":0,"shapeValue":0.0,"isPlayer":false,"methodMecanim":0,"mecanimParameterType":0,"parameterName":"","parameterNameID":-1,"parameterValue":0.0,"parameterValueParameterID":-1,"method":0,"blendMode":0,"playMode":0,"animationEngine":3,"customClassName":"","animEngine":{"instanceID":73114}}'
     endingReferencesBuffer: 00
     endingOverrideIndex: 00000000
 --- !u!4 &2276526157235003792
