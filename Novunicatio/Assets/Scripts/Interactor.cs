@@ -16,7 +16,7 @@ public class Interactor : MonoBehaviour
         }
     }
     void OnMouseEnter(){
-        print(DistanceFromCamera());
+
         if(DistanceFromCamera() <= m_TriggerDistance){
             m_Manager.CursorColorChange(true);
         }

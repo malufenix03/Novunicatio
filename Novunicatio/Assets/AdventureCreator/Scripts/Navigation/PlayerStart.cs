@@ -59,6 +59,7 @@ namespace AC
 		 */
 		public void PlacePlayerAt ()
 		{
+
 			if (KickStarter.mainCamera)
 			{
 				if (fadeInOnStart)

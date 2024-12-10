@@ -1,5 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
+using AC;
+using TMPro;
 using UnityEngine;
 
 public class Traducao : MonoBehaviour
@@ -8,15 +10,19 @@ public class Traducao : MonoBehaviour
     public string Espanhol;
     public string Frances;
     public string Ingles;
+    public bool gameRunning=false;
     // Start is called before the first frame update
-    void Start()
-    {
-        
+    public string traduzir(){
+        int lingua = Options.GetLanguage();
+        if(lingua == 0)
+            return Espanhol;
+        else if(lingua == 1)
+            return Frances;
+        else
+            return Ingles;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    void Update(){
+        if(!gameRunning)
+            GetComponentInChildren<TextMeshPro>().text = traduzir();
     }
 }

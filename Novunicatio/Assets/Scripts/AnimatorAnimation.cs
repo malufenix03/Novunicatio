@@ -9,6 +9,7 @@ public class AnimatorAnimation : MonoBehaviour
     public UnityEngine.Object[] proximo;
     private Animator[] proximoAnimator;
     private int id=0;
+    public float TriggerDistance =7f;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +26,10 @@ public class AnimatorAnimation : MonoBehaviour
     // Update is called once per frame
     void OnMouseDown()
     {
-        GetComponent<Animator>().SetTrigger("selectedTrigger");
+        if(DistanceFromCamera() <= TriggerDistance){
+            GetComponent<Animator>().SetTrigger("selectedTrigger");
+        }
+            
     }
 
     void OnTriggerEnter(){
@@ -38,7 +42,7 @@ public class AnimatorAnimation : MonoBehaviour
         AnimatorStateInfo state = GetComponent<Animator>().GetCurrentAnimatorStateInfo(0);
         float speed = state.speed * state.speedMultiplier;
         if(speed >0){
-            audioSource.Play();
+            GetComponent<Sound>().Play();
         }
         
     }
@@ -49,7 +53,7 @@ public class AnimatorAnimation : MonoBehaviour
         AnimatorStateInfo state = GetComponent<Animator>().GetCurrentAnimatorStateInfo(0);
         float speed = state.speed * state.speedMultiplier;
         if(speed <0){
-            audioSource.Play();
+            GetComponent<Sound>().Play();
         }
         
     }
@@ -62,7 +66,7 @@ public class AnimatorAnimation : MonoBehaviour
         if(audioSource.pitch <0){
             audioSource.time = audioSource.clip.length - 0.01f;
         }
-        audioSource.Play();
+        GetComponent<Sound>().Play();
     }
 
     void StopSound(UnityEngine.Object clip){
@@ -80,5 +84,11 @@ public class AnimatorAnimation : MonoBehaviour
 
     void Die(){
         GameObject.Destroy(gameObject);
+    }
+
+    float DistanceFromCamera(){
+        Vector3 heading = transform.position - Camera.main.transform.position;
+        float distance = Vector3.Dot(heading,Camera.main.transform.forward);
+        return distance;
     }
 }

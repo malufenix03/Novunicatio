@@ -43,7 +43,6 @@ namespace AC
 			#endif
 
 			GetComponent <KickStarter>().Initialise ();
-
 			runStart = true; // This is necessary because switching the active scene will cause Start to be re-run
 		}
 
@@ -62,6 +61,7 @@ namespace AC
 			if (callStartupProcess == CallStartupProcess.FirstFrameUpdate)
 			{
 				RunStartProcess ();
+
 			}
 		}
 
@@ -119,7 +119,6 @@ namespace AC
 					ACDebug.Log ("Bypassing regular AC startup because the current scene is the 'Loading' scene.");
 					return;
 				}
-
 				KickStarter.saveSystem.InitAfterLoad ();
 			}
 		}

@@ -1537,9 +1537,7 @@ namespace AC
 				enableCharacterController = _characterController.enabled;
 				_characterController.enabled = false;
 			}
-
 			Transform.position = _position;
-
 			if (enableCharacterController)
 			{
 				_characterController.enabled = true;

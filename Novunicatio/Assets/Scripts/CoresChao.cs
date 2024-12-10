@@ -6,6 +6,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEditor.Overlays;
 using UnityEngine;
+using AC;
 
 [System.Serializable]
 public class ListaTraducao{
@@ -36,10 +37,12 @@ public class CoresChao : MonoBehaviour
     public Layout[] layouts;
     static public int pontos=0;
     private int round=0;
+    public int roundMax=20;
     private bool isRunning = false;
     private bool isWaiting = false;
     private string cor;
     private string corTraduzida;
+    public GameObject barreira;
 
     // Start is called before the first frame update
     void Start()
@@ -55,7 +58,8 @@ public class CoresChao : MonoBehaviour
         }
         textoCor=telaCor.GetComponentInChildren<TextMeshPro>();
         textoTempo = telaTimer[0].GetComponentInChildren<TextMeshPro>();
-        dificuldade = GameObject.Find("ControlCenter").GetComponent<PointsManager>().points;
+
+        dificuldade =(int) PointsManager.fase;
     }
     // Update is called once per frame
     void Update()
@@ -66,11 +70,15 @@ public class CoresChao : MonoBehaviour
             }
         if(isWaiting)
             if(textoTempo.text == "0:00"){
-                NewRound();
+                if(round == roundMax)
+                    EndGame(1);
+                else
+                    NewRound();
             }
     }
 
     void StartGame(){
+        telaCor.GetComponent<Traducao>().gameRunning = true;
         NewRound();
     }
 
@@ -92,25 +100,53 @@ public class CoresChao : MonoBehaviour
         }
     }
 
-    void EndGame(){
-
-    }
-
-    void NewRound(){
+    void Reset(){
         foreach (GameObject piso in pisos){
             piso.SetActive(true);
         }
         isWaiting = false;
+    }
+    void countPointsVictory(){
+        pontos+=(dificuldade+1)*round;
+            PointsManager.Ganhou((dificuldade+1)*round);
+            if(dificuldade<4)
+                PointsManager.fase+=1;
+    }
+    void countPointsDefeat(){
+        pontos-=dificuldade*(roundMax-round);
+            PointsManager.Perdeu(dificuldade*(roundMax-round));
+    }
+    void EndGame(int vitoria){
+        Reset();
+        telaCor.GetComponent<Traducao>().gameRunning = false;
+        if(vitoria == 1){
+            countPointsVictory();
+        }
+        else{
+            countPointsDefeat();
+        }
+        MessageTimer("TurnOffTimer");
+        textoCor.color = Color.white;
+        barreira.GetComponent<Animator>().SetTrigger("endGameTrigger");
+    }
+
+    void NewRound(){
+        Reset();
         isRunning =true;
-        int aleatorio = Random.Range(0, dificuldade*4 +2);
+        int aleatorio = Random.Range(0, ((dificuldade+1)*4 +1)%13);
         cor = listaCores[aleatorio];
-        corTraduzida = listaTraducao[0].cores[aleatorio];
+        corTraduzida = Translate(aleatorio); 
         numAparicao[aleatorio]++;
         MessageTimer("TurnOnTimer",10);
         round++;
         textoCor.text = corTraduzida;
-        if(numAparicao[aleatorio]<=2)
+        if(numAparicao[aleatorio]<=2 && (aleatorio>dificuldade*4+1 || dificuldade==0)){
             textoCor.color=listaMateriais[aleatorio].color;
+            textoCor.text += " ■";
+        }
+            
+        else
+            textoCor.color=Color.white;
         
     }
     void FinishRound(){
@@ -121,13 +157,14 @@ public class CoresChao : MonoBehaviour
             }
 
         }
-        MessageTimer("TurnOnTimer",2);
+        MessageTimer("TurnOnTimer",3);
         isWaiting=true;
         isRunning=false;
     }
 
-    void Translate(string lingua){
-
+    string Translate(int id){
+        int lingua = Options.GetLanguage();
+        return listaTraducao[lingua].cores[id];
     }
 
     void MessageTimer(string message,int tempo){

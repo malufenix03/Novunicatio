@@ -571,7 +571,7 @@ namespace AC
 					}
 				}
 			}
-
+			
 			InitAfterLoad ();
 		}
 
@@ -696,6 +696,7 @@ namespace AC
 			AssetLoader.UnloadAssets ();
 
 			KickStarter.eventManager.Call_OnAfterChangeScene (thisFrameLoadingGame);
+
 		}
 
 

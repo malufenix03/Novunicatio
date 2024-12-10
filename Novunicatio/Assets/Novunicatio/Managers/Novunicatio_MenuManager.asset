@@ -88,7 +88,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 122
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -612,7 +612,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 93
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -1006,7 +1006,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 83
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -1182,7 +1182,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 94
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -1383,7 +1383,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 82
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -1453,7 +1453,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 123
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -1593,7 +1593,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 95
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -2220,7 +2220,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 120
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -2281,7 +2281,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 121
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -2472,7 +2472,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 117
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -2673,7 +2673,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 89
+  lineID: 104
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -3320,7 +3320,7 @@ MonoBehaviour:
   amount: 3
   minValue: 0
   maxValue: 1
-  label: Volume musica
+  label: "Volume m\xFAsica"
   textEffects: 0
   outlineSize: 2
   anchor: 3
@@ -3404,7 +3404,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 124
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -3544,7 +3544,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 85
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -3605,7 +3605,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 108
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -3985,7 +3985,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 87
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 1.5
@@ -4316,7 +4316,7 @@ MonoBehaviour:
   fontScaleFactor: 2
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 0
+  isVisible: 1
   isClickable: 1
   orientation: 0
   gridWidth: 3
@@ -4581,7 +4581,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 98
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -5046,9 +5046,9 @@ MonoBehaviour:
   offTexture: {fileID: 0}
   uiSelectableHideStyle: 0
   onText: On
-  onTextLineID: -1
+  onTextLineID: 118
   offText: Off
-  offTextLineID: -1
+  offTextLineID: 119
 --- !u!114 &4115033755316417634
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5067,7 +5067,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 90
+  lineID: 105
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2
@@ -5162,6 +5162,7 @@ MonoBehaviour:
   visibleElements:
   - {fileID: -2860970328145720147}
   - {fileID: 2101681734982115360}
+  - {fileID: 1306263407703488845}
   - {fileID: 4963832150464328116}
   transitionProgress: 0
   appearType: 3
@@ -5693,7 +5694,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 96
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -6581,7 +6582,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: 97
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 2
@@ -6723,7 +6724,7 @@ MonoBehaviour:
   rectTransformID: 87948
   uiTransitionType: 1
   uiPositionType: 1
-  _isLocked: 0
+  _isLocked: 1
   id: 11
   title: Hotspot
   manualSize: {x: 33.999996, y: 11.999999}
@@ -6823,7 +6824,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: 86
+  lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: c6e3b07edbe7e4f62837dde56356b819, type: 3}
   fontScaleFactor: 2

@@ -529,7 +529,6 @@ namespace AC
 
 			int endIndex = action.GetNextOutputIndex ();
 			ActionEnd actionEnd = (endIndex < 0 || endIndex > action.endings.Count) ? Action.GenerateStopActionEnd () : action.endings[endIndex];
-			
 			if (action.NumSockets <= 0)
 			{
 				actionEnd = Action.GenerateStopActionEnd ();
@@ -545,7 +544,6 @@ namespace AC
 				action.SetLastResult (index);
 				ReturnLastResultToSource (index, actions.IndexOf (action));
 			}
-
 			if (actionEnd.resultAction == ResultAction.Skip && actionEnd.skipAction == actions.IndexOf (action))
 			{
 				// Looping on itself will cause a StackOverflowException, so delay slightly

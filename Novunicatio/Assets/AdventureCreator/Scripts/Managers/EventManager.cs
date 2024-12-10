@@ -270,6 +270,7 @@ namespace AC
 		 */
 		public void Call_OnChangeGameState (GameState oldGameState, GameState newGameState)
 		{
+			print(KickStarter.player.transform.position + " " + oldGameState + " " + newGameState);
 			if (OnExitGameState != null)
 			{
 				OnExitGameState (oldGameState);

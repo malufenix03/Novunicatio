@@ -108,6 +108,7 @@ namespace AC
 		{
 			AssignPlayerStart ();
 			PlayStartCutscene ();
+			
 		}
 
 		#endregion
@@ -168,6 +169,7 @@ namespace AC
 		 */
 		public PlayerStart GetPlayerStart (int playerID)
 		{
+			
 			PlayerStart[] startersArray = FindObjectsOfType (typeof (PlayerStart)) as PlayerStart[];
 
 			List<PlayerStart> starters = new List<PlayerStart>();
@@ -188,6 +190,7 @@ namespace AC
 			{
 				if (starter.MatchesPreviousScene (playerID))
 				{
+					
 					return starter;
 				}
 			}

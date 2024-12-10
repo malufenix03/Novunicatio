@@ -177,7 +177,6 @@ namespace AC
 						#endif
 
 						persistentEnginePrefab = newPersistentEngine;
-
 						stateHandler = persistentEnginePrefab.GetComponent <StateHandler>();
 						stateHandler.Initialise ();
 						return true;
@@ -1142,9 +1141,8 @@ namespace AC
 			}
 
 			CheckRequiredManagerPackage (sceneSettings.requiredManagerPackage);
-
+			
 			PreparePlayer ();
-
 			if (mainCamera)
 			{
 				mainCamera.OnInitGameEngine ();
