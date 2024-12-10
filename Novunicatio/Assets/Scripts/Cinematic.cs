@@ -31,4 +31,7 @@ public class Cinematic : AnimatorAnimation
 		player.rightMovementLocked = false;
         player.jumpingLocked = false;
     }
+    void EndCinematic(){
+        GetComponent<Animator>().SetTrigger("endTrigger");
+    }
 }

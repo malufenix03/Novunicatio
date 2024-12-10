@@ -27,11 +27,11 @@ MonoBehaviour:
   saveAssetReferencesWithAddressables: 0
   saveLabels:
     defaultSaveLabel: Save
-    saveLabelID: -1
+    saveLabelID: 133
     defaultImportLabel: Import
-    importLabelID: -1
+    importLabelID: 134
     defaultAutosaveLabel: Autosave
-    autosaveLabelID: -1
+    autosaveLabelID: 135
   referenceScenesInSave: 0
   sceneAttributes: []
   actionListOnStart: {fileID: 0}
@@ -219,7 +219,7 @@ MonoBehaviour:
   speechAttentuationParameter: speechVolume
   defaultLanguage: 0
   defaultVoiceLanguage: 0
-  defaultShowSubtitles: 0
+  defaultShowSubtitles: 1
   defaultSfxVolume: 0.9
   defaultMusicVolume: 0.6
   defaultSpeechVolume: 1

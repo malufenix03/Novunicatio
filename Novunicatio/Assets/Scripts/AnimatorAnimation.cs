@@ -10,6 +10,7 @@ public class AnimatorAnimation : MonoBehaviour
     private Animator[] proximoAnimator;
     private int id=0;
     public float TriggerDistance =7f;
+    public bool flagNext = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -76,9 +77,13 @@ public class AnimatorAnimation : MonoBehaviour
     }
 
     void TriggerNext(){
-
-        proximoAnimator[id++].SetTrigger("nextTrigger");
-        id%=proximo.Length;
+        if(flagNext){
+            proximoAnimator[id++].SetTrigger("nextTrigger");
+            id%=proximo.Length;
+        }
+        else{
+            //som?
+        }
 
     }
 

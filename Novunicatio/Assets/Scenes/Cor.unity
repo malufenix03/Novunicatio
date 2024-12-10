@@ -8691,6 +8691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proximo: []
   TriggerDistance: 7
+  flagNext: 1
 --- !u!1 &984296516
 GameObject:
   m_ObjectHideFlags: 0
@@ -12235,7 +12236,7 @@ MonoBehaviour:
   telaTimer:
   - {fileID: 346582932}
   - {fileID: 86942565}
-  roundMax: 1
+  roundMax: 20
   barreira: {fileID: 1989753269}
 --- !u!1 &1291938696
 GameObject:
@@ -19389,7 +19390,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 131
   highlight: {fileID: 0}
   walkToMarker: {fileID: 403053469}
   centrePoint: {fileID: 0}
