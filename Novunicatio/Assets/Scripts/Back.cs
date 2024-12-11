@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+
 using AC;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -11,8 +12,6 @@ public class Back : MonoBehaviour
     public Vector3 vitoria;
     private GameObject playerObject;
     private Player player;
-    public bool primeiro = true;
-    public bool segundo = false;
 
 
     public void PlacePlayer(){
@@ -20,7 +19,7 @@ public class Back : MonoBehaviour
         player = playerObject.GetComponent<Player>();
      //   KickStarter.player.Teleport(posicao());
         player.transform.position = posicao();
-        print(player.transform.position);
+        player.transform.eulerAngles = sentido();
         EnableMovement();
     //    KickStarter.player.Teleport(posicao());
     }
@@ -32,6 +31,14 @@ public class Back : MonoBehaviour
        }
        else{
             return vitoria;
+       }
+    }
+    Vector3 sentido(){
+       if(perdeu){
+            return new Vector3(0f,0f,0f);
+       }
+       else{
+            return new Vector3(0f,0f,180f);
        }
     }
     void EnableMovement(){

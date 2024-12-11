@@ -10,6 +10,7 @@ public class Traducao : MonoBehaviour
     public string Espanhol;
     public string Frances;
     public string Ingles;
+    public string Alemao;
     public bool gameRunning=false;
     // Start is called before the first frame update
     public string traduzir(){
@@ -18,8 +19,10 @@ public class Traducao : MonoBehaviour
             return Espanhol;
         else if(lingua == 1)
             return Frances;
-        else
+        else if(lingua==2)
             return Ingles;
+        else
+            return Alemao;
     }
     void Update(){
         if(!gameRunning)

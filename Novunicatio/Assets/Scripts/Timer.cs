@@ -27,6 +27,11 @@ public class Timer : MonoBehaviour
             Seconds();
     }
 
+    public int TimeRemaining{
+        get{return timeRemaining;}
+        set{timeRemaining=value;}
+    }
+
     public void TurnOnTimer(int tempo){
         time = (float)duration;
         timeRemaining = duration;

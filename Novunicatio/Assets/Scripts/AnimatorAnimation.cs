@@ -11,6 +11,8 @@ public class AnimatorAnimation : MonoBehaviour
     private int id=0;
     public float TriggerDistance =7f;
     public bool flagNext = true;
+    public string failTrigger;
+    private bool firstInteraction=true;
     // Start is called before the first frame update
     void Start()
     {
@@ -82,7 +84,11 @@ public class AnimatorAnimation : MonoBehaviour
             id%=proximo.Length;
         }
         else{
-            //som?
+            if(firstInteraction){
+                SendMessage(failTrigger,-1);
+                firstInteraction=false;
+            }
+                
         }
 
     }

@@ -6,6 +6,7 @@ public class ActivateGame : MonoBehaviour
 {
     public GameObject game;
     public string gameFunction;
+    public string soundFunction;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,5 +20,6 @@ public class ActivateGame : MonoBehaviour
     }
     void OnTriggerEnter(){
         game.SendMessage(gameFunction);
+        SendMessage(soundFunction);
     }
 }

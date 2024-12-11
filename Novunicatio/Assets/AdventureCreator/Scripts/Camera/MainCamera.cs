@@ -435,7 +435,6 @@ namespace AC
 		 */
 		public void SetFirstPerson ()
 		{
-			print(KickStarter.player.transform.position +" sdasdfsf");
 			if (KickStarter.player == null)
 			{
 				ACDebug.LogWarning ("Cannot set first-person camera because no Player can be found!");

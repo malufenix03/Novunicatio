@@ -10,8 +10,6 @@ public class LeaveGame : MonoBehaviour
     {
         if(DistanceFromCamera() <= TriggerDistance){
             PointsManager.perdeu=perdeu;
-            print(perdeu);
-            print(name);
         }
             
     }

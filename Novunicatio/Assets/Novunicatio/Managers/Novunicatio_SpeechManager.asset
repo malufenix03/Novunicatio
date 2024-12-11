@@ -53,1056 +53,6 @@ MonoBehaviour:
   resetExpressionsEachLine: 1
   lines:
   - isPlayer: 0
-    lineID: 109
-    scene: 
-    owner: 
-    text: Use
-    description: 
-    textType: 6
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 110
-    scene: 
-    owner: 
-    text: on
-    description: 
-    textType: 6
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 111
-    scene: 
-    owner: 
-    text: Give
-    description: 
-    textType: 6
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 112
-    scene: 
-    owner: 
-    text: to
-    description: 
-    textType: 6
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 113
-    scene: 
-    owner: 
-    text: Walk to
-    description: 
-    textType: 6
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 114
-    scene: 
-    owner: 
-    text: Use
-    description: 
-    textType: 4
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 115
-    scene: 
-    owner: 
-    text: Talk to
-    description: 
-    textType: 4
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 116
-    scene: 
-    owner: 
-    text: Look at
-    description: 
-    textType: 4
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 66
-    scene: 
-    owner: ResumeButton
-    text: Retomar
-    description: 
-    textType: 5
-    translationText:
-    - Retomar
-    - Retomar
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 67
-    scene: 
-    owner: OptionsButton
-    text: "Op\xE7\xF5es"
-    description: 
-    textType: 5
-    translationText:
-    - "Op\xE7\xF5es"
-    - "Op\xE7\xF5es"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 69
-    scene: 
-    owner: LoadButton
-    text: Carregar
-    description: 
-    textType: 5
-    translationText:
-    - Carregar
-    - Carregar
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 117
-    scene: 
-    owner: ProfilesButton
-    text: Profiles
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 70
-    scene: 
-    owner: QuitButton
-    text: Sair
-    description: 
-    textType: 5
-    translationText:
-    - Sair
-    - Sair
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 71
-    scene: 
-    owner: TitleLabel
-    text: "Op\xE7\xF5es"
-    description: 
-    textType: 5
-    translationText:
-    - "Op\xE7\xF5es"
-    - "Op\xE7\xF5es"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 72
-    scene: 
-    owner: SpeechSlider
-    text: Volume discurso
-    description: 
-    textType: 5
-    translationText:
-    - Volume discurso
-    - Volume discurso
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 73
-    scene: 
-    owner: MusicSlider
-    text: "Volume m\xFAsica"
-    description: 
-    textType: 5
-    translationText:
-    - "Volume m\xFAsica"
-    - "Volume m\xFAsica"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 74
-    scene: 
-    owner: SFXSlider
-    text: Volume efeitos sonoros
-    description: 
-    textType: 5
-    translationText:
-    - Volume efeitos sonoros
-    - Volume efeitos sonoros
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 75
-    scene: 
-    owner: LanguageCycle
-    text: "L\xEDngua para aprender"
-    description: 
-    textType: 5
-    translationText:
-    - "L\xEDngua para aprender"
-    - "L\xEDngua para aprender"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 76
-    scene: 
-    owner: SubtitlesToggle
-    text: Subtitles
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 118
-    scene: 
-    owner: SubtitlesToggle
-    text: On
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 119
-    scene: 
-    owner: SubtitlesToggle
-    text: Off
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 77
-    scene: 
-    owner: BackButton
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 78
-    scene: 
-    owner: TitleLabel
-    text: Save game
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 88
-    scene: 
-    owner: SavesList
-    text: New save
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 79
-    scene: 
-    owner: BackButton
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 80
-    scene: 
-    owner: TitleLabel
-    text: Load game
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 81
-    scene: 
-    owner: BackButton
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 120
-    scene: 
-    owner: TitleLabel
-    text: Profiles
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 121
-    scene: 
-    owner: CurrentLabel
-    text: 'Current:'
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 122
-    scene: 
-    owner: NewButton
-    text: Create new profile
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 123
-    scene: 
-    owner: BackButton
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 84
-    scene: 
-    owner: MenuButton
-    text: Menu
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 89
-    scene: 
-    owner: ContainerLabel
-    text: Container
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 90
-    scene: 
-    owner: CloseButton
-    text: Close
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 91
-    scene: 
-    owner: TakeAllButton
-    text: Take all
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 92
-    scene: 
-    owner: InventoryLabel
-    text: Inventory
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 99
-    scene: 
-    owner: CreateButton
-    text: Create
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 100
-    scene: 
-    owner: CloseButton
-    text: Close
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 101
-    scene: 
-    owner: IngredientsLabel
-    text: Ingredients
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 102
-    scene: 
-    owner: InventoryLabel
-    text: Inventory
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 103
-    scene: 
-    owner: OutputLabel
-    text: Output
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 124
-    scene: 
-    owner: CloseButton
-    text: Close
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 104
-    scene: 
-    owner: Header
-    text: Objectives
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 105
-    scene: 
-    owner: BackButton
-    text: Back
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 125
-    scene: 
-    owner: OptionsButton
-    text: "Op\xE7\xF5es"
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 126
-    scene: 
-    owner: QuitButton
-    text: Sair
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 127
-    scene: 
-    owner: QuitButton
-    text: VOltar
-    description: Voltar
-    textType: 5
-    translationText:
-    - Voltar
-    - Voltar
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 128
-    scene: 
-    owner: OptionsButton
-    text: "Op\xE7\xF5es"
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 129
-    scene: 
-    owner: ResumeButton
-    text: Retomar
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 130
-    scene: 
-    owner: QuitButton
-    text: Sair
-    description: 
-    textType: 5
-    translationText:
-    - 
-    - 
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    ignoreDuringExport: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
     lineID: 131
     scene: Cor
     owner: 
@@ -1110,6 +60,604 @@ MonoBehaviour:
     description: 'From: Botao'
     textType: 1
     translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 143
+    scene: Laboratorio
+    owner: Telefone
+    text: "Ol\xE1, William! Eu sou o Dr. Costa, o seu titio falou sobre mim certo?"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 144
+    scene: Laboratorio
+    owner: Player
+    text: "(... Ent\xE3o \xE9 sobre isso que ele estava falando? O titio Julian tinha
+      me dito que eu ia participar de um experimento de um amigo dele...)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 1
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 145
+    scene: Laboratorio
+    owner: Player
+    text: "(Um amigo que n\xE3o sabe nada sobre a minha situa\xE7\xE3o...)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 2
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 146
+    scene: Laboratorio
+    owner: Telefone
+    text: "William? Garoto? Voc\xEA est\xE1 conseguindo me ouvir?"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 3
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 147
+    scene: Laboratorio
+    owner: Player
+    text: "Sim, consigo te ouvir sim. (N\xE3o estou muito acostumado a falar de volta...)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 4
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 148
+    scene: Laboratorio
+    owner: Telefone
+    text: "\xD3timo. S\xF3 para garantir que seu tio n\xE3o esqueceu de falar nada,
+      voc\xEA est\xE1 aqui hoje para fazer um pequeno experimento"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 5
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 149
+    scene: Laboratorio
+    owner: Telefone
+    text: "Algo divertido, n\xE3o precisa se preocupar. Um experimento para ajudar
+      voc\xEA aprender espanhol. Est\xE1 preparado?"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - "Algo divertido, n\xE3o precisa se preocupar. Um experimento para ajudar voc\xEA
+      aprender franc\xEAs. Est\xE1 preparado?"
+    - "Algo divertido, n\xE3o precisa se preocupar. Um experimento para ajudar voc\xEA
+      aprender ingl\xEAs. Est\xE1 preparado?"
+    - "Algo divertido, n\xE3o precisa se preocupar. Um experimento para ajudar voc\xEA
+      aprender alem\xE3o. Est\xE1 preparado?"
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 6
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 150
+    scene: Laboratorio
+    owner: Player
+    text: "Sim. (N\xE3o \xE9 como se eu tivesse alguma escolha. Talvez seja algo
+      divertido, que nem meu anivers\xE1rio. Tem at\xE9 comida, mesmo que eu j\xE1
+      tenha comido uns dois dias atr\xE1s)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 7
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 151
+    scene: Laboratorio
+    owner: Telefone
+    text: "Perfeito! Eu tentei deixar essa salinha de descanso o mais confort\xE1vel
+      para voc\xEA. Pode ficar \xE0 vontade antes de partir para o experimento."
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 8
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 152
+    scene: Laboratorio
+    owner: Telefone
+    text: "Aqui nessa instala\xE7\xE3o voc\xEA vai encontrar v\xE1rias salas, e o
+      objetivo \xE9 liberar pelo menos dois n\xEDveis de cada uma delas."
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 9
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 153
+    scene: Laboratorio
+    owner: Telefone
+    text: "A cada n\xEDvel da sala completo, uma luzinha em cima da porta da sala
+      vai se acender. Ou seja, com duas luzinhas voc\xEA completou aquela sala. "
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 10
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 154
+    scene: Laboratorio
+    owner: Telefone
+    text: "Ah, e depois que voc\xEA liberar tudo, poder\xE1 ir embora com seu tio,
+      como prometido!"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 11
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 155
+    scene: Laboratorio
+    owner: Player
+    text: "(Talvez eu devesse tentar ir o mais lento poss\xEDvel, aproveitar esse
+      momento mais leve)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 12
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 156
+    scene: Laboratorio
+    owner: Player
+    text: "(Mas o titio ficaria bravo... Melhor n\xE3o)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 13
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 157
+    scene: Laboratorio
+    owner: Telefone
+    text: "Tem algumas salas trancadas, porque ainda n\xE3o terminei de prepar\xE1-las,
+      ent\xE3o n\xE3o se preocupe com elas por enquanto."
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 14
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 158
+    scene: Laboratorio
+    owner: Telefone
+    text: "Eu tamb\xE9m coloquei um sistema de pontos, que pode ser bem divertido!
+      A pontua\xE7\xE3o ideal \xE9 60 pontos, mas n\xE3o se preocupe... voc\xEA pode
+      sair com menos pontos, se quiser."
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 15
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 159
+    scene: Laboratorio
+    owner: Player
+    text: "(Se eu sair com 60 pontos, o titio vai definitivamente me punir. \xC9
+      como as provas, errar uma quest\xE3o j\xE1 tornaria as coisas piores.)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 16
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 160
+    scene: Laboratorio
+    owner: Telefone
+    text: "Mesmo ap\xF3s completar os dois n\xEDveis numa sala, voc\xEA pode entrar
+      nela mais vezes. Cada luzinha em cima da porta representava um n\xEDvel"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 17
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 161
+    scene: Laboratorio
+    owner: Telefone
+    text: "Duas luzinhas \xE9 o m\xEDnimo necess\xE1rio, mas nada impede voc\xEA
+      tentar de completar os outros n\xEDveis mais dif\xEDceis para ganhar ainda
+      mais pontos."
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 18
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 162
+    scene: Laboratorio
+    owner: Telefone
+    text: "Mas cuidado... se voc\xEA perder o jogo em alguma sala, pode acabar perdendo
+      pontos!"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 19
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 163
+    scene: Laboratorio
+    owner: Telefone
+    text: "Depois de vencer a primeira parte de uma sala, para passar para o pr\xF3ximo
+      n\xEDvel, tudo o que voc\xEA precisa fazer \xE9 sair e entrar na sala novamente.
+      Simples, n\xE9?"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 20
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 1
+    lineID: 164
+    scene: Laboratorio
+    owner: Player
+    text: "(N\xE3o muito...)"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 21
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 165
+    scene: Laboratorio
+    owner: Telefone
+    text: "Ah, e tem mais uma coisa... Eu n\xE3o vou te explicar o que fazer em cada
+      sala. O objetivo \xE9 voc\xEA descobrir sozinho, ok? Isso \xE9 parte do experimento!
+      Divirta-se e boa sorte!"
+    description: 'From: Telefone: Use'
+    textType: 0
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: 22
+    orderPrefix: 'Telefone: Use_976090_'
+  - isPlayer: 0
+    lineID: 166
+    scene: Laboratorio
+    owner: 
+    text: William
+    description: 'From: Player'
+    textType: 10
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 167
+    scene: Laboratorio
+    owner: 
+    text: Cientista
+    description: 'From: Telefone'
+    textType: 10
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 168
+    scene: Laboratorio
+    owner: 
+    text: Telefone
+    description: 'From: Telefone'
+    textType: 1
+    translationText:
+    - 
     - 
     - 
     customAudioClip: {fileID: 0}
@@ -1133,6 +681,52 @@ MonoBehaviour:
     translationText:
     - 
     - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 169
+    scene: Laboratorio
+    owner: 
+    text: "Ol\xE1, William! Eu sou o Dr. Costa, o seu tio falou sobre mim certo?"
+    description: 'From: Conversation'
+    textType: 2
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 170
+    scene: Laboratorio
+    owner: 
+    text: "(... Ent\xE3o \xE9 sobre isso que ele estava falando? O tio Julian tinha
+      me dito que eu ia participar de um experimento de um amigo dele...)"
+    description: 'From: Conversation'
+    textType: 2
+    translationText:
+    - 
+    - 
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1152,6 +746,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
+    - 
     - 
     - 
     customAudioClip: {fileID: 0}
@@ -1175,6 +770,7 @@ MonoBehaviour:
     translationText:
     - 
     - 
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1194,6 +790,975 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 109
+    scene: 
+    owner: 
+    text: Use
+    description: 
+    textType: 6
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 110
+    scene: 
+    owner: 
+    text: on
+    description: 
+    textType: 6
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 111
+    scene: 
+    owner: 
+    text: Give
+    description: 
+    textType: 6
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 112
+    scene: 
+    owner: 
+    text: to
+    description: 
+    textType: 6
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 113
+    scene: 
+    owner: 
+    text: Walk to
+    description: 
+    textType: 6
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 114
+    scene: 
+    owner: 
+    text: Use
+    description: 
+    textType: 4
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 115
+    scene: 
+    owner: 
+    text: Talk to
+    description: 
+    textType: 4
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 116
+    scene: 
+    owner: 
+    text: Look at
+    description: 
+    textType: 4
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 66
+    scene: 
+    owner: ResumeButton
+    text: Retomar
+    description: 
+    textType: 5
+    translationText:
+    - Retomar
+    - Retomar
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 67
+    scene: 
+    owner: OptionsButton
+    text: "Op\xE7\xF5es"
+    description: 
+    textType: 5
+    translationText:
+    - "Op\xE7\xF5es"
+    - "Op\xE7\xF5es"
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 69
+    scene: 
+    owner: LoadButton
+    text: Carregar
+    description: 
+    textType: 5
+    translationText:
+    - Carregar
+    - Carregar
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 117
+    scene: 
+    owner: ProfilesButton
+    text: Profiles
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 70
+    scene: 
+    owner: QuitButton
+    text: Sair
+    description: 
+    textType: 5
+    translationText:
+    - Sair
+    - Sair
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 71
+    scene: 
+    owner: TitleLabel
+    text: "Op\xE7\xF5es"
+    description: 
+    textType: 5
+    translationText:
+    - "Op\xE7\xF5es"
+    - "Op\xE7\xF5es"
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 72
+    scene: 
+    owner: SpeechSlider
+    text: Volume discurso
+    description: 
+    textType: 5
+    translationText:
+    - Volume discurso
+    - Volume discurso
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 73
+    scene: 
+    owner: MusicSlider
+    text: "Volume m\xFAsica"
+    description: 
+    textType: 5
+    translationText:
+    - "Volume m\xFAsica"
+    - "Volume m\xFAsica"
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 74
+    scene: 
+    owner: SFXSlider
+    text: Volume efeitos sonoros
+    description: 
+    textType: 5
+    translationText:
+    - Volume efeitos sonoros
+    - Volume efeitos sonoros
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 75
+    scene: 
+    owner: LanguageCycle
+    text: "L\xEDngua para aprender"
+    description: 
+    textType: 5
+    translationText:
+    - "L\xEDngua para aprender"
+    - "L\xEDngua para aprender"
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 76
+    scene: 
+    owner: SubtitlesToggle
+    text: Subtitles
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 118
+    scene: 
+    owner: SubtitlesToggle
+    text: On
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 119
+    scene: 
+    owner: SubtitlesToggle
+    text: Off
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 77
+    scene: 
+    owner: BackButton
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 78
+    scene: 
+    owner: TitleLabel
+    text: Save game
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 88
+    scene: 
+    owner: SavesList
+    text: New save
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 79
+    scene: 
+    owner: BackButton
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 80
+    scene: 
+    owner: TitleLabel
+    text: Load game
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 81
+    scene: 
+    owner: BackButton
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 120
+    scene: 
+    owner: TitleLabel
+    text: Profiles
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 121
+    scene: 
+    owner: CurrentLabel
+    text: 'Current:'
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 122
+    scene: 
+    owner: NewButton
+    text: Create new profile
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 123
+    scene: 
+    owner: BackButton
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 84
+    scene: 
+    owner: MenuButton
+    text: Menu
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 89
+    scene: 
+    owner: ContainerLabel
+    text: Container
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 90
+    scene: 
+    owner: CloseButton
+    text: Close
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 91
+    scene: 
+    owner: TakeAllButton
+    text: Take all
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 92
+    scene: 
+    owner: InventoryLabel
+    text: Inventory
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 99
+    scene: 
+    owner: CreateButton
+    text: Create
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 100
+    scene: 
+    owner: CloseButton
+    text: Close
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 101
+    scene: 
+    owner: IngredientsLabel
+    text: Ingredients
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 102
+    scene: 
+    owner: InventoryLabel
+    text: Inventory
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 103
+    scene: 
+    owner: OutputLabel
+    text: Output
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 124
+    scene: 
+    owner: CloseButton
+    text: Close
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 104
+    scene: 
+    owner: Header
+    text: Objectives
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 105
+    scene: 
+    owner: BackButton
+    text: Back
+    description: 
+    textType: 5
+    translationText:
+    - 
     - 
     - 
     customAudioClip: {fileID: 0}
@@ -1217,6 +1782,7 @@ MonoBehaviour:
     translationText:
     - 
     - 
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1236,6 +1802,73 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 125
+    scene: 
+    owner: OptionsButton
+    text: "Op\xE7\xF5es"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 126
+    scene: 
+    owner: QuitButton
+    text: Sair
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 171
+    scene: 
+    owner: ManualButton
+    text: Como Jogar?
+    description: 
+    textType: 5
+    translationText:
+    - 
     - 
     - 
     customAudioClip: {fileID: 0}
@@ -1259,6 +1892,7 @@ MonoBehaviour:
     translationText:
     - 
     - 
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1280,6 +1914,29 @@ MonoBehaviour:
     translationText:
     - 
     - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 127
+    scene: 
+    owner: QuitButton
+    text: VOltar
+    description: Voltar
+    textType: 5
+    translationText:
+    - Voltar
+    - Voltar
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1299,6 +1956,249 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 128
+    scene: 
+    owner: OptionsButton
+    text: "Op\xE7\xF5es"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 129
+    scene: 
+    owner: ResumeButton
+    text: Retomar
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 130
+    scene: 
+    owner: QuitButton
+    text: Sair
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 141
+    scene: 
+    owner: InicioTitle
+    text: "Instru\xE7\xF5es"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 172
+    scene: 
+    owner: moverLabel
+    text: mover personagem  = wasd/setinhas
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 173
+    scene: 
+    owner: pularLabel
+    text: "pular = espa\xE7o"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 174
+    scene: 
+    owner: olharLabel
+    text: olhar ao redor  = mouse
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 175
+    scene: 
+    owner: interagirLabel
+    text: "interagir = bot\xE3o esquerdo do mouse"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 176
+    scene: 
+    owner: dialogoLabel
+    text: "passar di\xE1logo = bot\xE3o esquerdo do mouse"
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 177
+    scene: 
+    owner: pausarLabel
+    text: pausar jogo  = esc
+    description: 
+    textType: 5
+    translationText:
+    - 
+    - 
+    - 
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    ignoreDuringExport: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 142
+    scene: 
+    owner: QuitButton
+    text: VOltar
+    description: 
+    textType: 5
+    translationText:
+    - 
     - 
     - 
     customAudioClip: {fileID: 0}
@@ -1335,6 +2235,12 @@ MonoBehaviour:
     lipsyncAssetBundle: 
     fallbackLanguageIndex: 0
     isDisabled: 0
+  - name: "Alem\xE3o"
+    isRightToLeft: 0
+    audioAssetBundle: 
+    lipsyncAssetBundle: 
+    fallbackLanguageIndex: 0
+    isDisabled: 0
   ignoreOriginalText: 0
   sfxDucking: 0
   musicDucking: 0
@@ -1343,7 +2249,7 @@ MonoBehaviour:
   phonemes: []
   lipSyncSpeed: 1
   translatableTextTypes: -1
-  maxID: 140
+  maxID: 177
   speechIDRecycling: 0
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
