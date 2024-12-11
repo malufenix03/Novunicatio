@@ -13,10 +13,18 @@ public class Back : MonoBehaviour
     private GameObject playerObject;
     private Player player;
 
-
-    public void PlacePlayer(){
+    void Awake(){
         playerObject = GameObject.Find("Player").gameObject;
         player = playerObject.GetComponent<Player>();
+    }
+
+    void Update(){
+        if(player.transform.position.y < 0.009)
+            player.transform.position = new Vector3 (player.transform.position.x,0.1f,player.transform.position.z);
+    }
+
+    public void PlacePlayer(){
+        
      //   KickStarter.player.Teleport(posicao());
         player.transform.position = posicao();
         player.transform.eulerAngles = sentido();
