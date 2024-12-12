@@ -15,8 +15,13 @@ public class EndGame : MonoBehaviour
     }
     void Update(){
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("subir portao cor")){
-            Menu menu = PlayerMenus.GetMenuWithName ("FimDeJogo");
+            Menu menu;
+            if(PointsManager.points>=60)
+                 menu = PlayerMenus.GetMenuWithName ("FimDeJogo");
+            else
+                 menu = PlayerMenus.GetMenuWithName ("FimDeJogo60");
             menu.TurnOn ();
+            
         }
 
     }

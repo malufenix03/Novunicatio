@@ -2768,6 +2768,68 @@ MonoBehaviour:
   inventoryPropertyType: 0
   selectedObjectiveLabelType: 0
   itemSlotNumber: 0
+--- !u!114 &-3517005144223196138
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ae5c94351944600a4b0aec144476b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 5
+  title: VoceNaoConseguiuLabel
+  slotSize: {x: 60.181656, y: 13.618677}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 5dd49b3eacc540408c98eee0de38e0f1, type: 3}
+  fontScaleFactor: 3
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.6
+  relativeRect:
+    serializedVersion: 2
+    x: 187.17
+    y: 185.04
+    width: 662.60004
+    height: 70
+  relativePosition: {x: 17, y: 36}
+  numSlots: 1
+  uiText: {fileID: 0}
+  _label: "Voc\xEA conseguiu [var:0] pontos! Uma pena que seu tio n\xE3o vai ficar
+    contente com isso;;;"
+  anchor: 3
+  textEffects: 0
+  outlineSize: 2
+  labelType: 0
+  variableID: 0
+  useCharacterColour: 0
+  autoAdjustHeight: 1
+  updateIfEmpty: 0
+  showPendingWhileMovingToHotspot: 0
+  itemPropertyID: 0
+  multiplyByItemCount: 0
+  inventoryPropertyType: 0
+  selectedObjectiveLabelType: 0
+  itemSlotNumber: 0
 --- !u!114 &-3240775220995781942
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3757,7 +3819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: VoceConseguiuLabel
-  slotSize: {x: 60.130123, y: 15.960912}
+  slotSize: {x: 60.181656, y: 13.618677}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -3782,10 +3844,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.6
   relativeRect:
     serializedVersion: 2
-    x: 338.13998
-    y: 221.04
-    width: 924.2
-    height: 97.99999
+    x: 242.22
+    y: 185.04
+    width: 662.60004
+    height: 70
   relativePosition: {x: 22, y: 36}
   numSlots: 1
   uiText: {fileID: 0}
@@ -4345,6 +4407,67 @@ MonoBehaviour:
   uiSelectableHideStyle: 0
   smoothingFactor: 0
   autoSetVisibility: 1
+--- !u!114 &-867585836840761575
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ae5c94351944600a4b0aec144476b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 0
+  title: Fim de jogo
+  slotSize: {x: 16.621254, y: 9.143969}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 5dd49b3eacc540408c98eee0de38e0f1, type: 3}
+  fontScaleFactor: 4
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 440.40002
+    y: 102.799995
+    width: 183.00002
+    height: 46.999996
+  relativePosition: {x: 40, y: 20}
+  numSlots: 1
+  uiText: {fileID: 0}
+  _label: Fim de jogo
+  anchor: 4
+  textEffects: 0
+  outlineSize: 2
+  labelType: 0
+  variableID: 0
+  useCharacterColour: 0
+  autoAdjustHeight: 1
+  updateIfEmpty: 0
+  showPendingWhileMovingToHotspot: 0
+  itemPropertyID: 0
+  multiplyByItemCount: 0
+  inventoryPropertyType: 0
+  selectedObjectiveLabelType: 0
+  itemSlotNumber: 0
 --- !u!114 &-858241708307380995
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4727,6 +4850,7 @@ MonoBehaviour:
   - {fileID: 8631370383171091560}
   - {fileID: 5276612959565359328}
   - {fileID: 6748999128596106339}
+  - {fileID: 6570106950886256589}
   globalDepth: 0
   pauseTexture: {fileID: 0}
   scaleTextEffects: 0
@@ -5504,7 +5628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 5
   title: VoceNaoConseguiuLabel
-  slotSize: {x: 60.130123, y: 15.960912}
+  slotSize: {x: 60.181656, y: 13.618677}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -5531,8 +5655,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 261.29
     y: 307.80002
-    width: 924.2
-    height: 97.99999
+    width: 662.60004
+    height: 70
   relativePosition: {x: 17, y: 36}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5776,7 +5900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Fim de jogo
-  slotSize: {x: 16.395576, y: 10.586319}
+  slotSize: {x: 16.621254, y: 9.143969}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -5801,10 +5925,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 614.8
-    y: 122.799995
-    width: 252.00002
-    height: 65
+    x: 440.40002
+    y: 102.799995
+    width: 183.00002
+    height: 46.999996
   relativePosition: {x: 40, y: 20}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5941,6 +6065,76 @@ MonoBehaviour:
   uiButton: {fileID: 0}
   uiPointerState: 0
   _label: Sair
+  hotspotLabel: 
+  hotspotLabelID: -1
+  anchor: 4
+  textEffects: 0
+  outlineSize: 2
+  buttonClickType: 3
+  actionList: {fileID: 11400000, guid: 333bfeac8c8a2ce45aef5b338b8acefc, type: 2}
+  parameterID: -1
+  parameterValue: 0
+  doFade: 0
+  switchMenuTitle: 
+  inventoryBoxTitle: 
+  shiftInventory: 0
+  shiftAmount: 1
+  onlyShowWhenEffective: 0
+  loopJournal: 0
+  inputAxis: 
+  simulateInput: 0
+  simulateValue: 1
+  clickTexture: {fileID: 0}
+  allowContinuousClick: 0
+  uiSelectableHideStyle: 0
+--- !u!114 &2970822449069596324
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64747f67d47cb4e04a88bea43b7c1cfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 2
+  title: Button
+  slotSize: {x: 13.805632, y: 6.8093386}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 5dd49b3eacc540408c98eee0de38e0f1, type: 3}
+  fontScaleFactor: 3
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 1
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 451.41
+    y: 339.24
+    width: 152
+    height: 35
+  relativePosition: {x: 41, y: 66}
+  numSlots: 1
+  uiButton: {fileID: 0}
+  uiPointerState: 0
+  _label: Sair do jogo
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
@@ -6450,7 +6644,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   title: Button
-  slotSize: {x: 13.923227, y: 7.980456}
+  slotSize: {x: 13.805632, y: 6.8093386}
   sizeType: 0
   positionType: 2
   slotSpacing: 0
@@ -6475,10 +6669,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 630.17
-    y: 405.24
-    width: 214
-    height: 48.999996
+    x: 451.41
+    y: 339.24
+    width: 152
+    height: 35
   relativePosition: {x: 41, y: 66}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -6809,6 +7003,67 @@ MonoBehaviour:
     width: 71.399994
     height: 102.6
   showInFilter: 1
+--- !u!114 &4310219104348135421
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ae5c94351944600a4b0aec144476b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 1
+  title: VoceConseguiuLabel
+  slotSize: {x: 60.181656, y: 13.618677}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 5dd49b3eacc540408c98eee0de38e0f1, type: 3}
+  fontScaleFactor: 3
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 0
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.6
+  relativeRect:
+    serializedVersion: 2
+    x: 242.22
+    y: 185.04
+    width: 662.60004
+    height: 70
+  relativePosition: {x: 22, y: 36}
+  numSlots: 1
+  uiText: {fileID: 0}
+  _label: "Voc\xEA conseguiu [var:0] pontos! Hoje, voc\xEA vai poder descansar"
+  anchor: 0
+  textEffects: 0
+  outlineSize: 2
+  labelType: 0
+  variableID: 0
+  useCharacterColour: 0
+  autoAdjustHeight: 1
+  updateIfEmpty: 0
+  showPendingWhileMovingToHotspot: 0
+  itemPropertyID: 0
+  multiplyByItemCount: 0
+  inventoryPropertyType: 0
+  selectedObjectiveLabelType: 0
+  itemSlotNumber: 0
 --- !u!114 &4476869953622860294
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -8060,6 +8315,113 @@ MonoBehaviour:
   clickTexture: {fileID: 0}
   allowContinuousClick: 0
   uiSelectableHideStyle: 0
+--- !u!114 &6570106950886256589
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f455f0e4a864975bf60bc153fbe20d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuSource: 0
+  canvas: {fileID: 0}
+  canvasAssetKey: 
+  canvasID: 0
+  rectTransform: {fileID: 0}
+  rectTransformID: 0
+  uiTransitionType: 0
+  uiPositionType: 0
+  _isLocked: 0
+  id: 21
+  title: FimDeJogo60
+  manualSize: {x: 100, y: 100}
+  positionType: 0
+  manualPosition: {x: 550.5, y: 257}
+  positionSmoothing: 0
+  alignment: 4
+  toggleKey: 
+  ignoreMouseClicks: 0
+  pauseWhenEnabled: 1
+  showWhenPaused: 0
+  canClickInCutscene: 0
+  enabledOnStart: 0
+  actionListOnTurnOn: {fileID: 11400000, guid: 8bf1bb8023a250c449d3ff35680e5263, type: 2}
+  actionListOnTurnOff: {fileID: 0}
+  updateWhenFadeOut: 1
+  hideDuringSaveScreenshots: 1
+  fitWithinScreen: 1
+  backgroundTexture: {fileID: 2800000, guid: 2de7d16b4ac4b402182d4f2ca40e0b2d, type: 3}
+  visibleElements:
+  - {fileID: -867585836840761575}
+  - {fileID: -3517005144223196138}
+  - {fileID: 2970822449069596324}
+  transitionProgress: 0
+  appearType: 0
+  speechMenuType: 0
+  speechMenuLimit: 0
+  limitToCharacters: 
+  forceSubtitles: 0
+  moveWithCharacter: 1
+  selected_element: {fileID: 0}
+  selected_slot: 0
+  autoSelectFirstVisibleElement: 0
+  firstSelectedElement: 
+  elements:
+  - {fileID: -867585836840761575}
+  - {fileID: 4310219104348135421}
+  - {fileID: -3517005144223196138}
+  - {fileID: 2970822449069596324}
+  spacing: 0.5
+  sizeType: 1
+  autoSizeEveryFrame: 0
+  orientation: 0
+  transitionType: 4
+  panDirection: 0
+  panMovement: 0
+  timeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panDistance: 0.5
+  fadeSpeed: 0
+  zoomAnchor: 4
+  zoomElements: 0
+  oneMenuPerSpeech: 0
+  speechProximityLimit: 0
+  speechProximityDistance: 10
+  deleteUIWhenTurnOff: 0
+  biggestElementSize: {x: 0, y: 0}
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1101
+    height: 514
+  showInFilter: 1
 --- !u!114 &6696891585222567170
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -8195,7 +8557,7 @@ MonoBehaviour:
   title: FimDeJogo
   manualSize: {x: 100, y: 100}
   positionType: 0
-  manualPosition: {x: 768.5, y: 307}
+  manualPosition: {x: 550.5, y: 257}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -8274,8 +8636,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1537
-    height: 614
+    width: 1101
+    height: 514
   showInFilter: 1
 --- !u!114 &6758321508623466098
 MonoBehaviour:

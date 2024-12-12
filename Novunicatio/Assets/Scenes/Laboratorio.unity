@@ -17694,8 +17694,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "(Se eu sair com 60 pontos, o titio vai definitivamente me punir.
-    \xC9 como as provas, errar uma quest\xE3o j\xE1 tornaria as coisas piores.)"
+  messageText: "(Se eu sair com menos de 60 pontos, o titio vai definitivamente me
+    punir. \xC9 como as provas, errar uma quest\xE3o j\xE1 tornaria as coisas piores.)"
   lineID: 159
   multiLineIDs: 
   isBackground: 0
